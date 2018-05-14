@@ -11,6 +11,11 @@
 
 [Writing a Simple Publisher and Subscriber (Python)](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29)
 
+
+---
+### 发送MoveBaseActionGoal信息
+发送MoveBaseActionGoal开启导航功能，实现可参考[python goal发布](python/notebook/goal_publisher.ipynb)。
+
 ---
 ## tf
 
@@ -83,3 +88,7 @@ Node: unknown_publisher 11.4265 Hz, Average Delay: 0.00025763 Max Delay: 0.00033
 [ROS中级二 利用Rviz实时观测模拟SLAM过程](https://stevenshi.me/2017/07/11/ros-intermediate-tutorial-2/) gmapping实现。
 
 [ROS中级一 配置并使用ROS导航功能包集](http://stevenshi.me/2017/07/10/ros-intermediate-tutorial-1/) 对整个导航实物实现流程做了解释。
+
+
+
+
